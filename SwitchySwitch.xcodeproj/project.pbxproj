@@ -12,6 +12,7 @@
 		EC97A4391CE9C09800FC0495 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC97A4371CE9C09800FC0495 /* Main.storyboard */; };
 		EC97A43B1CE9C09800FC0495 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC97A43A1CE9C09800FC0495 /* Assets.xcassets */; };
 		EC97A43E1CE9C09800FC0495 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC97A43C1CE9C09800FC0495 /* LaunchScreen.storyboard */; };
+		EC97A4461CE9C0A700FC0495 /* SwitchySwitch.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC97A4451CE9C0A700FC0495 /* SwitchySwitch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EC97A43A1CE9C09800FC0495 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC97A43D1CE9C09800FC0495 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC97A43F1CE9C09800FC0495 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC97A4451CE9C0A700FC0495 /* SwitchySwitch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwitchySwitch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				EC97A4331CE9C09800FC0495 /* AppDelegate.swift */,
 				EC97A4351CE9C09800FC0495 /* ViewController.swift */,
+				EC97A4451CE9C0A700FC0495 /* SwitchySwitch.swift */,
 				EC97A4371CE9C09800FC0495 /* Main.storyboard */,
 				EC97A43A1CE9C09800FC0495 /* Assets.xcassets */,
 				EC97A43C1CE9C09800FC0495 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC97A4361CE9C09800FC0495 /* ViewController.swift in Sources */,
+				EC97A4461CE9C0A700FC0495 /* SwitchySwitch.swift in Sources */,
 				EC97A4341CE9C09800FC0495 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
